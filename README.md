@@ -4,6 +4,11 @@ This app is hosted at https://covid-dashboard-ortgies.herokuapp.com/
 <br>
 ![Screenshot](https://github.com/Ortgies/COVID-19-Dashboard-Germany/blob/main/Assets/screenshot.png)
 
+# Motivation
+Web design is not one my biggest talents. I have quite a bit of experience with UI design for mobile apps in Flutter/Dart, but the data science field is still dominated by web dashboards. <br>
+For this reason I wanted to try out Dash and also refresh my knowledge in HTML. <br>
+I chose the Covid pandemic as the subject of my dashboard, since there is a large amount of openly available data which can be transformed to numerous interesting statistics. <br>
+
 # Data collection
 Raw covid data is retrieved ArcGIS and the Robert Koch Institute (RKI). <br>
 Geolocations are sourced from opendatalab. <br>
